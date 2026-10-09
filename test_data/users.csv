@@ -1,0 +1,101 @@
+user_id,first_name,last_name,email,course,status
+U001,Linda,Smith,linda.smith1@example.com,Code of Conduct & Ethics,Pass
+U002,Joseph,Jones,joseph.jones2@example.com,Code of Conduct & Ethics,Pass
+U003,Kenji,Williams,kenji.williams3@example.com,Customer Service Excellence,Pass
+U004,Mary,Williams,mary.williams4@example.com,Anti-Harassment Training,Pass
+U005,Noah,Smith,noah.smith5@example.com,Leadership Essentials,Pass
+U006,Kenji,Anderson,kenji.anderson6@example.com,Anti-Harassment Training,Pass
+U007,Sarah,Tanaka,sarah.tanaka7@example.com,Workplace Safety Fundamentals,Fail
+U008,David,Nguyen,david.nguyen8@example.com,Introduction to Python,Pass
+U009,Elizabeth,Miller,elizabeth.miller9@example.com,Project Management Basics,Pass
+U010,Anthony,Brown,anthony.brown10@example.com,Project Management Basics,Fail
+U011,Noah,Rodriguez,noah.rodriguez11@example.com,Workplace Safety Fundamentals,Fail
+U012,Kenji,Brown,kenji.brown12@example.com,Introduction to Python,Pass
+U013,Charles,Singh,charles.singh13@example.com,Diversity & Inclusion,Pass
+U014,Lisa,Martin,lisa.martin14@example.com,Anti-Harassment Training,Fail
+U015,John,Chen,john.chen15@example.com,Anti-Harassment Training,Fail
+U016,Jennifer,Müller,jennifer.mueller16@example.com,Anti-Harassment Training,Fail
+U017,Anthony,Rodriguez,anthony.rodriguez17@example.com,Excel for Business,Pass
+U018,Lisa,Garcia,lisa.garcia18@example.com,Project Management Basics,Pass
+U019,Sarah,Nguyen,sarah.nguyen19@example.com,Diversity & Inclusion,Pass
+U020,Noah,Patel,noah.patel20@example.com,Cybersecurity Awareness,Pass
+U021,Jessica,Garcia,jessica.garcia21@example.com,Excel for Business,Pass
+U022,Fatima,Davis,fatima.davis22@example.com,Diversity & Inclusion,Pass
+U023,Patricia,Davis,patricia.davis23@example.com,Workplace Safety Fundamentals,Fail
+U024,Betty,Rodriguez,betty.rodriguez24@example.com,Data Privacy & GDPR,Pass
+U025,Liam,Rossi,liam.rossi25@example.com,Code of Conduct & Ethics,Pass
+U026,Wei,Wilson,wei.wilson26@example.com,Diversity & Inclusion,Pass
+U027,Thomas,Jones,thomas.jones27@example.com,Anti-Harassment Training,Fail
+U028,Kenji,Rodriguez,kenji.rodriguez28@example.com,Code of Conduct & Ethics,Pass
+U029,Sofia,Wilson,sofia.wilson29@example.com,Project Management Basics,Pass
+U030,William,Moore,william.moore30@example.com,Excel for Business,Pass
+U031,Patricia,Müller,patricia.mueller31@example.com,Data Privacy & GDPR,Pass
+U032,David,Tanaka,david.tanaka32@example.com,Diversity & Inclusion,Pass
+U033,Robert,Wilson,robert.wilson33@example.com,Introduction to Python,Pass
+U034,Ashley,Moore,ashley.moore34@example.com,Effective Communication,Fail
+U035,James,Chen,james.chen35@example.com,Code of Conduct & Ethics,Pass
+U036,Kenji,Okafor,kenji.okafor36@example.com,Effective Communication,Fail
+U037,Nancy,Brown,nancy.brown37@example.com,Effective Communication,Pass
+U038,Ashley,Smith,ashley.smith38@example.com,Code of Conduct & Ethics,Fail
+U039,Thomas,Moore,thomas.moore39@example.com,Cybersecurity Awareness,Pass
+U040,Michael,Müller,michael.mueller40@example.com,Diversity & Inclusion,Pass
+U041,Carlos,Lee,carlos.lee41@example.com,Anti-Harassment Training,Pass
+U042,David,Jackson,david.jackson42@example.com,Leadership Essentials,Fail
+U043,Noah,Hernandez,noah.hernandez43@example.com,Excel for Business,Pass
+U044,Lisa,Rossi,lisa.rossi44@example.com,Effective Communication,Pass
+U045,Jessica,Rossi,jessica.rossi45@example.com,Customer Service Excellence,Fail
+U046,Jennifer,Kim,jennifer.kim46@example.com,Excel for Business,Fail
+U047,Kenji,Okafor,kenji.okafor47@example.com,Cybersecurity Awareness,Pass
+U048,Priya,Jackson,priya.jackson48@example.com,Cybersecurity Awareness,Pass
+U049,Noah,Anderson,noah.anderson49@example.com,Anti-Harassment Training,Fail
+U050,Richard,Nguyen,richard.nguyen50@example.com,Effective Communication,Pass
+U051,Lisa,Taylor,lisa.taylor51@example.com,Leadership Essentials,Pass
+U052,Jessica,Davis,jessica.davis52@example.com,Data Privacy & GDPR,Pass
+U053,Sofia,Jackson,sofia.jackson53@example.com,Anti-Harassment Training,Pass
+U054,James,Williams,james.williams54@example.com,Code of Conduct & Ethics,Pass
+U055,Joseph,Williams,joseph.williams55@example.com,Workplace Safety Fundamentals,Fail
+U056,Robert,Moore,robert.moore56@example.com,Anti-Harassment Training,Pass
+U057,Wei,Miller,wei.miller57@example.com,Leadership Essentials,Pass
+U058,Liam,Martin,liam.martin58@example.com,Excel for Business,Pass
+U059,Priya,Tanaka,priya.tanaka59@example.com,Introduction to Python,Pass
+U060,Michael,Chen,michael.chen60@example.com,Introduction to Python,Pass
+U061,Mark,Taylor,mark.taylor61@example.com,Code of Conduct & Ethics,Pass
+U062,Michael,Johnson,michael.johnson62@example.com,Introduction to Python,Fail
+U063,Michael,Davis,michael.davis63@example.com,Anti-Harassment Training,Pass
+U064,Steven,Jones,steven.jones64@example.com,Introduction to Python,Pass
+U065,Ashley,Davis,ashley.davis65@example.com,Data Privacy & GDPR,Pass
+U066,Fatima,Brown,fatima.brown66@example.com,Workplace Safety Fundamentals,Pass
+U067,Kenji,Singh,kenji.singh67@example.com,Workplace Safety Fundamentals,Fail
+U068,Jessica,Garcia,jessica.garcia68@example.com,Introduction to Python,Pass
+U069,Susan,Müller,susan.mueller69@example.com,Introduction to Python,Fail
+U070,David,Wilson,david.wilson70@example.com,Workplace Safety Fundamentals,Fail
+U071,Thomas,Dubois,thomas.dubois71@example.com,Excel for Business,Pass
+U072,Fatima,Chen,fatima.chen72@example.com,Code of Conduct & Ethics,Pass
+U073,Richard,Martinez,richard.martinez73@example.com,Anti-Harassment Training,Fail
+U074,Sofia,Kim,sofia.kim74@example.com,Leadership Essentials,Pass
+U075,Daniel,Johnson,daniel.johnson75@example.com,Workplace Safety Fundamentals,Pass
+U076,Carlos,Dubois,carlos.dubois76@example.com,Leadership Essentials,Pass
+U077,Carlos,Williams,carlos.williams77@example.com,Cybersecurity Awareness,Pass
+U078,Robert,Chen,robert.chen78@example.com,Anti-Harassment Training,Pass
+U079,Liam,Davis,liam.davis79@example.com,Customer Service Excellence,Pass
+U080,Amara,Williams,amara.williams80@example.com,Introduction to Python,Pass
+U081,Liam,Moore,liam.moore81@example.com,Project Management Basics,Fail
+U082,Susan,Chen,susan.chen82@example.com,Code of Conduct & Ethics,Pass
+U083,Thomas,Wilson,thomas.wilson83@example.com,Cybersecurity Awareness,Pass
+U084,Karen,Taylor,karen.taylor84@example.com,Project Management Basics,Fail
+U085,Robert,Smith,robert.smith85@example.com,Excel for Business,Pass
+U086,Liam,Brown,liam.brown86@example.com,Data Privacy & GDPR,Pass
+U087,Carlos,Rodriguez,carlos.rodriguez87@example.com,Cybersecurity Awareness,Fail
+U088,Robert,Rossi,robert.rossi88@example.com,Anti-Harassment Training,Pass
+U089,David,Taylor,david.taylor89@example.com,Leadership Essentials,Fail
+U090,Amara,Tanaka,amara.tanaka90@example.com,Diversity & Inclusion,Pass
+U091,Fatima,Martinez,fatima.martinez91@example.com,Diversity & Inclusion,Pass
+U092,William,Rodriguez,william.rodriguez92@example.com,Data Privacy & GDPR,Fail
+U093,Fatima,Jones,fatima.jones93@example.com,Effective Communication,Pass
+U094,Susan,Nguyen,susan.nguyen94@example.com,Project Management Basics,Pass
+U095,Thomas,Moore,thomas.moore95@example.com,Excel for Business,Pass
+U096,Patricia,Williams,patricia.williams96@example.com,Diversity & Inclusion,Pass
+U097,Sarah,Johnson,sarah.johnson97@example.com,Workplace Safety Fundamentals,Pass
+U098,William,Patel,william.patel98@example.com,Effective Communication,Pass
+U099,Steven,Jackson,steven.jackson99@example.com,Code of Conduct & Ethics,Pass
+U100,James,Brown,james.brown100@example.com,Data Privacy & GDPR,Fail
